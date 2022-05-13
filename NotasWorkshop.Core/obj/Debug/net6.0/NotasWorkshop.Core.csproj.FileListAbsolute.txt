@@ -1,0 +1,12 @@
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Core\bin\Debug\net6.0\NotasWorkshop.Core.deps.json
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Core\bin\Debug\net6.0\NotasWorkshop.Core.dll
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Core\bin\Debug\net6.0\NotasWorkshop.Core.pdb
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Core\obj\Debug\net6.0\NotasWorkshop.Core.csproj.AssemblyReference.cache
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Core\obj\Debug\net6.0\NotasWorkshop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Core\obj\Debug\net6.0\NotasWorkshop.Core.AssemblyInfoInputs.cache
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Core\obj\Debug\net6.0\NotasWorkshop.Core.AssemblyInfo.cs
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Core\obj\Debug\net6.0\NotasWorkshop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Core\obj\Debug\net6.0\NotasWorkshop.Core.dll
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Core\obj\Debug\net6.0\refint\NotasWorkshop.Core.dll
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Core\obj\Debug\net6.0\NotasWorkshop.Core.pdb
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Core\obj\Debug\net6.0\ref\NotasWorkshop.Core.dll

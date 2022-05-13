@@ -1,0 +1,12 @@
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Core\bin\Debug\net6.0\SicopataPedidos.Core.deps.json
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Core\bin\Debug\net6.0\SicopataPedidos.Core.dll
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Core\bin\Debug\net6.0\SicopataPedidos.Core.pdb
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Core\obj\Debug\net6.0\SicopataPedidos.Core.csproj.AssemblyReference.cache
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Core\obj\Debug\net6.0\SicopataPedidos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Core\obj\Debug\net6.0\SicopataPedidos.Core.AssemblyInfoInputs.cache
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Core\obj\Debug\net6.0\SicopataPedidos.Core.AssemblyInfo.cs
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Core\obj\Debug\net6.0\SicopataPedidos.Core.csproj.CoreCompileInputs.cache
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Core\obj\Debug\net6.0\SicopataPedidos.Core.dll
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Core\obj\Debug\net6.0\refint\SicopataPedidos.Core.dll
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Core\obj\Debug\net6.0\SicopataPedidos.Core.pdb
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Core\obj\Debug\net6.0\ref\SicopataPedidos.Core.dll

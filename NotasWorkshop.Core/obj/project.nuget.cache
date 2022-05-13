@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FHp+c/ehAZ14CFXF132DK+c1QX79x2OeIaQmzY6TmMN+b6VTtofJvN9wgHuF1wls25GwMoCJCg0HraI1JudLTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Core\\SicopataPedidos.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miguel.santos\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\miguel.santos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\miguel.santos\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

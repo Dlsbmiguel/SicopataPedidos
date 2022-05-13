@@ -1,0 +1,17 @@
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\bin\Debug\net6.0\NotasWorkshop.Model.deps.json
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\bin\Debug\net6.0\NotasWorkshop.Model.runtimeconfig.json
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\bin\Debug\net6.0\NotasWorkshop.Model.dll
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\bin\Debug\net6.0\NotasWorkshop.Model.pdb
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\bin\Debug\net6.0\NotasWorkshop.Core.dll
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\bin\Debug\net6.0\NotasWorkshop.Core.pdb
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\obj\Debug\net6.0\NotasWorkshop.Model.csproj.AssemblyReference.cache
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\obj\Debug\net6.0\NotasWorkshop.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\obj\Debug\net6.0\NotasWorkshop.Model.AssemblyInfoInputs.cache
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\obj\Debug\net6.0\NotasWorkshop.Model.AssemblyInfo.cs
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\obj\Debug\net6.0\NotasWorkshop.Model.csproj.CoreCompileInputs.cache
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\obj\Debug\net6.0\NotasWorkshop.Model.csproj.CopyComplete
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\obj\Debug\net6.0\NotasWorkshop.Model.dll
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\obj\Debug\net6.0\refint\NotasWorkshop.Model.dll
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\obj\Debug\net6.0\NotasWorkshop.Model.pdb
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\obj\Debug\net6.0\NotasWorkshop.Model.genruntimeconfig.cache
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Model\obj\Debug\net6.0\ref\NotasWorkshop.Model.dll

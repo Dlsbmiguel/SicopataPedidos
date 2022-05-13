@@ -1,0 +1,17 @@
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\bin\Debug\net6.0\SicopataPedidos.Model.deps.json
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\bin\Debug\net6.0\SicopataPedidos.Model.runtimeconfig.json
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\bin\Debug\net6.0\SicopataPedidos.Model.dll
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\bin\Debug\net6.0\SicopataPedidos.Model.pdb
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\bin\Debug\net6.0\SicopataPedidos.Core.dll
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\bin\Debug\net6.0\SicopataPedidos.Core.pdb
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\obj\Debug\net6.0\SicopataPedidos.Model.csproj.AssemblyReference.cache
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\obj\Debug\net6.0\SicopataPedidos.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\obj\Debug\net6.0\SicopataPedidos.Model.AssemblyInfoInputs.cache
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\obj\Debug\net6.0\SicopataPedidos.Model.AssemblyInfo.cs
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\obj\Debug\net6.0\SicopataPedidos.Model.csproj.CoreCompileInputs.cache
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\obj\Debug\net6.0\SicopataPedidos.Model.csproj.CopyComplete
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\obj\Debug\net6.0\SicopataPedidos.Model.dll
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\obj\Debug\net6.0\refint\SicopataPedidos.Model.dll
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\obj\Debug\net6.0\SicopataPedidos.Model.pdb
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\obj\Debug\net6.0\SicopataPedidos.Model.genruntimeconfig.cache
+C:\Users\miguel.santos\source\repos\SicopataPedidos\NotasWorkshop.Model\obj\Debug\net6.0\ref\SicopataPedidos.Model.dll

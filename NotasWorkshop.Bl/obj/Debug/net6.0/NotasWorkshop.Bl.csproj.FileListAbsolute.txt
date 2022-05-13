@@ -1,0 +1,17 @@
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\bin\Debug\net6.0\NotasWorkshop.Bl.deps.json
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\bin\Debug\net6.0\NotasWorkshop.Bl.dll
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\bin\Debug\net6.0\NotasWorkshop.Bl.pdb
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\bin\Debug\net6.0\NotasWorkshop.Core.dll
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\bin\Debug\net6.0\NotasWorkshop.Model.dll
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\bin\Debug\net6.0\NotasWorkshop.Model.pdb
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\bin\Debug\net6.0\NotasWorkshop.Core.pdb
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\obj\Debug\net6.0\NotasWorkshop.Bl.csproj.AssemblyReference.cache
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\obj\Debug\net6.0\NotasWorkshop.Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\obj\Debug\net6.0\NotasWorkshop.Bl.AssemblyInfoInputs.cache
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\obj\Debug\net6.0\NotasWorkshop.Bl.AssemblyInfo.cs
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\obj\Debug\net6.0\NotasWorkshop.Bl.csproj.CoreCompileInputs.cache
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\obj\Debug\net6.0\NotasWorkshop.Bl.csproj.CopyComplete
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\obj\Debug\net6.0\NotasWorkshop.Bl.dll
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\obj\Debug\net6.0\refint\NotasWorkshop.Bl.dll
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\obj\Debug\net6.0\NotasWorkshop.Bl.pdb
+C:\Users\Sx-G5-Laptop\Projects\Workshop\FirstPractice\NotasWorkshop\NotasWorkshop.Bl\obj\Debug\net6.0\ref\NotasWorkshop.Bl.dll
