@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.API\\SicopataPedidos.API.csproj": {}
+    "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.API\\SicopataPedidos.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.API\\SicopataPedidos.API.csproj": {
+    "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.API\\SicopataPedidos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.API\\SicopataPedidos.API.csproj",
+        "projectUniqueName": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.API\\SicopataPedidos.API.csproj",
         "projectName": "SicopataPedidos.API",
-        "projectPath": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.API\\SicopataPedidos.API.csproj",
-        "packagesPath": "C:\\Users\\miguel.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.API\\obj\\",
+        "projectPath": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.API\\SicopataPedidos.API.csproj",
+        "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\miguel.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Services\\SicopataPedidos.Services.csproj": {
-                "projectPath": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Services\\SicopataPedidos.Services.csproj"
+              "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Services\\SicopataPedidos.Services.csproj": {
+                "projectPath": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Services\\SicopataPedidos.Services.csproj"
               }
             }
           }
@@ -44,6 +48,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -53,6 +61,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[7.0.2, )"
             }
           },
           "imports": [
@@ -73,21 +85,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Bl\\SicopataPedidos.Bl.csproj": {
+    "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Bl\\SicopataPedidos.Bl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Bl\\SicopataPedidos.Bl.csproj",
+        "projectUniqueName": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Bl\\SicopataPedidos.Bl.csproj",
         "projectName": "SicopataPedidos.Bl",
-        "projectPath": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Bl\\SicopataPedidos.Bl.csproj",
-        "packagesPath": "C:\\Users\\miguel.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Bl\\obj\\",
+        "projectPath": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Bl\\SicopataPedidos.Bl.csproj",
+        "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Bl\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\miguel.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,8 +117,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Model\\SicopataPedidos.Model.csproj": {
-                "projectPath": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Model\\SicopataPedidos.Model.csproj"
+              "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Model\\SicopataPedidos.Model.csproj": {
+                "projectPath": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Model\\SicopataPedidos.Model.csproj"
               }
             }
           }
@@ -145,21 +161,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Core\\SicopataPedidos.Core.csproj": {
+    "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Core\\SicopataPedidos.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Core\\SicopataPedidos.Core.csproj",
+        "projectUniqueName": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Core\\SicopataPedidos.Core.csproj",
         "projectName": "SicopataPedidos.Core",
-        "projectPath": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Core\\SicopataPedidos.Core.csproj",
-        "packagesPath": "C:\\Users\\miguel.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Core\\obj\\",
+        "projectPath": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Core\\SicopataPedidos.Core.csproj",
+        "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\miguel.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -205,21 +225,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Model\\SicopataPedidos.Model.csproj": {
+    "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Model\\SicopataPedidos.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Model\\SicopataPedidos.Model.csproj",
+        "projectUniqueName": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Model\\SicopataPedidos.Model.csproj",
         "projectName": "SicopataPedidos.Model",
-        "projectPath": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Model\\SicopataPedidos.Model.csproj",
-        "packagesPath": "C:\\Users\\miguel.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Model\\obj\\",
+        "projectPath": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Model\\SicopataPedidos.Model.csproj",
+        "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Model\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\miguel.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -233,8 +257,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Core\\SicopataPedidos.Core.csproj": {
-                "projectPath": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Core\\SicopataPedidos.Core.csproj"
+              "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Core\\SicopataPedidos.Core.csproj": {
+                "projectPath": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Core\\SicopataPedidos.Core.csproj"
               }
             }
           }
@@ -285,21 +309,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Services\\SicopataPedidos.Services.csproj": {
+    "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Services\\SicopataPedidos.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Services\\SicopataPedidos.Services.csproj",
+        "projectUniqueName": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Services\\SicopataPedidos.Services.csproj",
         "projectName": "SicopataPedidos.Services",
-        "projectPath": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Services\\SicopataPedidos.Services.csproj",
-        "packagesPath": "C:\\Users\\miguel.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Services\\obj\\",
+        "projectPath": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Services\\SicopataPedidos.Services.csproj",
+        "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\miguel.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -313,8 +341,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Bl\\SicopataPedidos.Bl.csproj": {
-                "projectPath": "C:\\Users\\miguel.santos\\source\\repos\\SicopataPedidos\\NotasWorkshop.Bl\\SicopataPedidos.Bl.csproj"
+              "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Bl\\SicopataPedidos.Bl.csproj": {
+                "projectPath": "C:\\Users\\migue\\Source\\Repos\\Dlsbmiguel\\SicopataPedidos\\NotasWorkshop.Bl\\SicopataPedidos.Bl.csproj"
               }
             }
           }
@@ -328,6 +356,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -343,7 +381,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

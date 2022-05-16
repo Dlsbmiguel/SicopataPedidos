@@ -15,7 +15,12 @@ namespace SicopataPedidos.Model.Contexts.NotasWorkshop
         {
         }
 
-        public DbSet<Note> Notes { get; set; }
+        public DbSet<Categories> Categories { get; set; }
+        public DbSet<Orders> Orders { get; set; }
+        public DbSet<Products> Products { get; set; }
+        public DbSet<User> User { get; set; }
+        public DbSet<ShoppingList> ShoppingLists { get; set; }
+
 
         public DbSet<T> GetDbSet<T>() where T : class, IBaseEntity => Set<T>();
 

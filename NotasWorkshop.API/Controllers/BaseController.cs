@@ -15,17 +15,16 @@ namespace SicopataPedidos.Api.Controllers
             where TEntity : class, IBaseEntity
             where TEntityDto : class, IBaseEntityDto
     {
-        public IValidatorFactory _validationFactory { get; set; }
+        
         public IMapper _mapper { get; set; }
         public Type TypeDto { get; set; }
         public string TypeName { get; set; }
 
         protected readonly IEntityCRUDService<TEntity, TEntityDto> _entityCRUDService;
 
-        public BaseController(IEntityCRUDService<TEntity, TEntityDto> entityCRUDService, IValidatorFactory validationFactory, IMapper mapper)
+        public BaseController(IEntityCRUDService<TEntity, TEntityDto> entityCRUDService,  IMapper mapper)
         {
             _entityCRUDService = entityCRUDService;
-            _validationFactory = validationFactory;
             TypeDto = typeof(List<TEntityDto>);
             TypeName = typeof(TEntity).Name;
             _mapper = mapper;

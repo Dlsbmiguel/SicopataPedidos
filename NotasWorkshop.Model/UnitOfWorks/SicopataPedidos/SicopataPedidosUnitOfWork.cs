@@ -6,14 +6,14 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SicopataPedidos.Model.UnitOfWorks.NotasWorkshop
+namespace SicopataPedidos.Model.UnitOfWorks.SicopataPedidos
 {
-    public class NotasWorkshopUnitOfWork : IUnitOfWork<ISicopataPedidosDbContext>
+    public class SicopataPedidosUnitOfWork : IUnitOfWork<ISicopataPedidosDbContext>
     {
         public ISicopataPedidosDbContext context { get; set; }
         public readonly IServiceProvider _serviceProvider;
 
-        public NotasWorkshopUnitOfWork(IServiceProvider serviceProvider, ISicopataPedidosDbContext context)
+        public SicopataPedidosUnitOfWork(IServiceProvider serviceProvider, ISicopataPedidosDbContext context)
         {
             _serviceProvider = serviceProvider;
             this.context = context;

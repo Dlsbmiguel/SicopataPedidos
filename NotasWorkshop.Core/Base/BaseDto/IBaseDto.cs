@@ -7,6 +7,5 @@ namespace SicopataPedidos.Core.Base.BaseDto
     public interface IBaseDto
     {
         int? Id { get; set; }
-        bool Deleted { get; set; }
     }
 }

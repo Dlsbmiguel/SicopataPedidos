@@ -14,7 +14,7 @@ namespace SicopataPedidos.Api.Controllers
     public interface IBaseController : IODataController
     {
 
-        IValidatorFactory _validationFactory { get; set; }
+        
         UnprocessableEntityObjectResult UnprocessableEntity(object error);
         string TypeName { get; set; }
     }
