@@ -9,7 +9,7 @@ namespace SicopataPedidos.Model.Entities
         public int UserId { get; set; }
         public int ProductQuatity { get; set; }
         public double Price { get; set; }
-        [JsonIgnore]
+        [JsonIgnore]    
         public virtual Products? Products { get; set; }
         [JsonIgnore]
         public virtual User? User { get; set; }

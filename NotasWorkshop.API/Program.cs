@@ -28,7 +28,13 @@ builder.Services.AddDbContext<SicopataPedidosDbContext>(op => op.UseSqlServer(my
 // Add services to the container.
 builder.Services.AddControllers().AddFluentValidation();
 builder.Services.AddHttpContextAccessor();
-
+builder.Services.AddCors(x =>
+{
+    x.AddPolicy("AllowAnyOrigin", policy =>
+    {
+        policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+    });
+});
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(options =>
@@ -80,14 +86,14 @@ builder.Services.AddAuthentication(options =>
 
 var app = builder.Build();
 
-
+app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+app.UseCors();
 app.UseHttpsRedirection();
 
 app.UseAuthentication();

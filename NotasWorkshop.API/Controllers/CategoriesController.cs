@@ -8,7 +8,7 @@ using SicopataPedidos.Services.Services;
 
 namespace SicopataPedidos.API.Controllers
 {
-    [Authorize(Roles = "True")]
+    //[Authorize(Roles = "True")]
     [Route("api/[controller]")]
     [ApiController]
     public class CategoriesController : BaseController<Categories, CategoriesDto>
