@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\NotasWorkshop.Services",
+    "\\NotasWorkshop.Services\\Services"
   ],
-  "SelectedNode": "\\SicopataPedidos.sln",
+  "SelectedNode": "\\NotasWorkshop.Services\\Services\\OrdersService.cs",
   "PreviewInSolutionExplorer": false
 }
