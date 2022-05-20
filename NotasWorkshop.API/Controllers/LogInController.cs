@@ -15,7 +15,7 @@ namespace SicopataPedidos.API.Controllers
             _logInService = logInService;
         }
 
-        [HttpPost("LogIn")]
+        [HttpPost]
         public async Task<IActionResult> LogIn(LogInDto request)
         {
             var authenticateUser = await _logInService.AuthenticateUser(request);

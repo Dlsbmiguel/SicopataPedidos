@@ -8,7 +8,7 @@ using SicopataPedidos.Services.Services;
 
 namespace SicopataPedidos.API.Controllers
 {
-    [Authorize(Roles = "False")]
+    //[Authorize(Roles = "False")]
     [Route("api/[controller]")]
     [ApiController]
     public class ShoppingListController : BaseController<ShoppingList, ShoppingListDto>

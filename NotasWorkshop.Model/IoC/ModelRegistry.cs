@@ -1,5 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using SicopataPedidos.Model.Contexts.NotasWorkshop;
+using SicopataPedidos.Model.Entities;
+using SicopataPedidos.Model.Repositories;
 using SicopataPedidos.Model.UnitOfWorks;
 using SicopataPedidos.Model.UnitOfWorks.SicopataPedidos;
 
@@ -11,6 +13,9 @@ namespace SicopataPedidos.Model.IoC
         {
             services.AddTransient<ISicopataPedidosDbContext, SicopataPedidosDbContext>();
             services.AddScoped<IUnitOfWork<ISicopataPedidosDbContext>, SicopataPedidosUnitOfWork>();
+            services.AddScoped<IRepository<Products>, BaseRepository<Products>>();
+            
+            
         }
     }
 }

@@ -14,6 +14,7 @@ namespace SicopataPedidos.Bl.Mappings
         public ShoppingListProfile()
         {
             CreateMap<ShoppingList, ShoppingListDto>().ReverseMap();
+            //CreateMap<ShoppingList, ShoppingListDto>().ForMember(dest => dest.Products, opt => opt.MapFrom(src => src.Products));
         }
     }
 }

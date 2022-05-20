@@ -14,9 +14,10 @@ namespace SicopataPedidos.Services.IoC
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<IProductsService, ProductsService>();
             services.AddScoped<IShoppingListService, ShoppingListService>();
-            services.AddScoped<IOrdersService, OrdersService>();
+            services.AddTransient<IOrdersService, OrdersService>();
             services.AddScoped<ICategoriesProductsService, CategoriesProductsService>();
             services.AddScoped<IEmailService, EmailService>();
+            services.AddScoped<IGetLoggedInUserService, GetLoggedInUserService>();
         }
     }
 }
