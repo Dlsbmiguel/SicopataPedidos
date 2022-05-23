@@ -10,20 +10,32 @@ namespace SicopataPedidos.Services.Services
 {
     public interface IUserService : IEntityCRUDService<User, UserDto>
     {
-        // Agregar mas metodo al servicio
+        Task<UserDto?> GetLoggedInUser();
     }
 
     public class UserService : EntityCRUDService<User, UserDto>, IUserService
     {
-        public UserService(IMapper mapper, IUnitOfWork<ISicopataPedidosDbContext> uow)
+        private readonly IGetLoggedInUserService _LoggedInUserService;
+        public UserService(IMapper mapper, IUnitOfWork<ISicopataPedidosDbContext> uow, IGetLoggedInUserService loggedInUserService)
             : base(mapper, uow)
         {
+            _LoggedInUserService = loggedInUserService;
         }
 
         public override async Task<UserDto> GetById(int id)
         {
             if (_repository is null) return new UserDto();
             var user = await _repository.GetAll().Include(x => x.ShoppingLists).Include(x => x.Orders).Where(x => x.Id == id).FirstOrDefaultAsync();
+            return _mapper.Map<UserDto>(user);
+        }
+
+        public  async Task<UserDto?> GetLoggedInUser()
+        {
+            var id = _LoggedInUserService.UserId;
+            if (id == 0) return null;
+
+            if (_repository is null) return new UserDto();
+            var user = await _repository.GetAll().Where(x => x.Id == id).FirstOrDefaultAsync();
             return _mapper.Map<UserDto>(user);
         }
     }

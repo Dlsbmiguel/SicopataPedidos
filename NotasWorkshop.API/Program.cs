@@ -1,5 +1,6 @@
 using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
+
 using SicopataPedidos.API.IoC;
 using SicopataPedidos.Bl.IoC;
 using SicopataPedidos.Model.IoC;
@@ -24,7 +25,6 @@ builder.Services.AddCoreRegistry();
 string myAppDbContextConnection = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<SicopataPedidosDbContext>(op => op.UseSqlServer(myAppDbContextConnection),
     ServiceLifetime.Transient);
-
 // Add services to the container.
 builder.Services.AddControllers().AddFluentValidation();
 builder.Services.AddHttpContextAccessor();
