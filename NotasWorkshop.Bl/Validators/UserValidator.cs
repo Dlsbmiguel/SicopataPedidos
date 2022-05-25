@@ -8,7 +8,7 @@ namespace SicopataPedidos.Bl.Validators
     {
         public UserValidator()
         {
-            RuleFor(x => x.Name)
+            RuleFor(x => x.FirstName)
                 .NotNull()
                 .NotEmpty()
                 .MaximumLength(20)

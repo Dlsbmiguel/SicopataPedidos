@@ -22,8 +22,28 @@ namespace SicopataPedidos.Services.Services
 
     public class ShoppingListService : EntityCRUDService<ShoppingList, ShoppingListDto>, IShoppingListService
     {
-        public ShoppingListService(IMapper mapper, IUnitOfWork<ISicopataPedidosDbContext> uow) : base(mapper, uow)
+        private readonly IGetLoggedInUserService _isLoggedInUserService;
+        public ShoppingListService(IMapper mapper, IUnitOfWork<ISicopataPedidosDbContext> uow, IGetLoggedInUserService isLoggedInService) : base(mapper, uow)
         {
+            _isLoggedInUserService = isLoggedInService;
+        }
+
+        public override async Task<ShoppingListDto> Save(ShoppingListDto entityDto)
+        {
+            var id = _isLoggedInUserService.UserId;
+            entityDto.UserId = id;
+
+            var product = _uow.GetRepository<Products>().Where(x => x.Id == entityDto.ProductId).FirstOrDefault();
+
+            entityDto.Price = product.ProductPrice * entityDto.ProductQuatity;
+            
+            ShoppingList entity = _mapper.Map<ShoppingList>(entityDto);
+            _repository.Add(entity);
+            await _uow.Commit();
+            
+            entityDto = _mapper.Map<ShoppingListDto>(entity);
+
+            return entityDto;
         }
 
         public async Task<IReadOnlyCollection<ShoppingList>> GetListForUser(int userId)

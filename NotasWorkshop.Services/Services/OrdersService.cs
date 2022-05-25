@@ -14,7 +14,7 @@ namespace SicopataPedidos.Services.Services
 {
     public interface IOrdersService : IEntityCRUDService<Orders, OrdersDto>
     {
-        Task<OrdersDto> MakeOrder();
+        Task<OrdersDto?> MakeOrder();
         Task<bool> ValidateWallet(Orders request);
 
     }
@@ -34,10 +34,11 @@ namespace SicopataPedidos.Services.Services
             _emailService = emailService;
             
         }
-        public async Task<OrdersDto> MakeOrder()
+        public async Task<OrdersDto?> MakeOrder()
         {
 
             var shoppingList = await _shoppingListService.GetListForUser(_LoggedInUserService.UserId);
+            if(shoppingList == null) return null;
             
             if (shoppingList.Count() < 1)
                 throw new ApplicationException("Shopping List is empty.");
@@ -45,6 +46,11 @@ namespace SicopataPedidos.Services.Services
             var order = new Orders();
 
             order.UserId = _LoggedInUserService.UserId;
+
+            if (await ValidateWallet(order) == false)
+            {
+                throw new ApplicationException($"Not enough funds to generate this order");
+            }
 
             foreach (var item in shoppingList)
             {
@@ -62,13 +68,6 @@ namespace SicopataPedidos.Services.Services
             }
 
             order.CreatedDate = DateTime.Now;
-
-            
-            if (await ValidateWallet(order) == false)
-            {
-                throw new ApplicationException($"Not enough funds to generate this order");
-            }
-
 
             _repository.Add(order);
             await _uow.Commit();

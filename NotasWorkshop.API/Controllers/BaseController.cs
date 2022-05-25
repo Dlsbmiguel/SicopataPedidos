@@ -36,7 +36,7 @@ namespace SicopataPedidos.Api.Controllers
         /// <returns>A list of records.</returns>
         // [Audit(AuditActionType = AuditActionType.READ)]
         [HttpGet]
-        //[OData]
+        
         //[EnableQuery]
         public virtual IActionResult Get()
         {

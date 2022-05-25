@@ -13,14 +13,24 @@ namespace SicopataPedidos.API.Controllers
     [ApiController]
     public class UserController : BaseController<User, UserDto>
     {
+        private readonly IUserService _userService;
         public UserController(IUserService userService, IMapper mapper) : base(userService, mapper)
         {
+            _userService = userService;
         }
 
         [HttpPost, AllowAnonymous]
         public override Task<IActionResult> Post([FromBody] UserDto entityDto)
         {
             return base.Post(entityDto);
+        }
+
+        [HttpGet, Route("getLoggedInUser"), AllowAnonymous]
+        public async Task <ActionResult<UserDto>> GetLoggedInUser()
+        {
+
+            return await _userService.GetLoggedInUser();
+
         }
     }
 }
