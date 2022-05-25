@@ -236,3 +236,15 @@ C:\Users\miguel.santos\Source\Repos\Dlsbmiguel\SicopataPedidos\NotasWorkshop.API
 C:\Users\miguel.santos\Source\Repos\Dlsbmiguel\SicopataPedidos\NotasWorkshop.API\obj\Debug\net6.0\SicopataPedidos.API.pdb
 C:\Users\miguel.santos\Source\Repos\Dlsbmiguel\SicopataPedidos\NotasWorkshop.API\obj\Debug\net6.0\SicopataPedidos.API.genruntimeconfig.cache
 C:\Users\miguel.santos\Source\Repos\Dlsbmiguel\SicopataPedidos\NotasWorkshop.API\obj\Debug\net6.0\ref\SicopataPedidos.API.dll
+C:\Users\miguel.santos\Source\Repos\Dlsbmiguel\SicopataPedidos\NotasWorkshop.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\miguel.santos\Source\Repos\Dlsbmiguel\SicopataPedidos\NotasWorkshop.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\miguel.santos\Source\Repos\Dlsbmiguel\SicopataPedidos\NotasWorkshop.API\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\miguel.santos\Source\Repos\Dlsbmiguel\SicopataPedidos\NotasWorkshop.API\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\miguel.santos\Source\Repos\Dlsbmiguel\SicopataPedidos\NotasWorkshop.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\miguel.santos\Source\Repos\Dlsbmiguel\SicopataPedidos\NotasWorkshop.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\miguel.santos\Source\Repos\Dlsbmiguel\SicopataPedidos\NotasWorkshop.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\miguel.santos\Source\Repos\Dlsbmiguel\SicopataPedidos\NotasWorkshop.API\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+C:\Users\miguel.santos\Source\Repos\Dlsbmiguel\SicopataPedidos\NotasWorkshop.API\bin\Debug\net6.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\miguel.santos\Source\Repos\Dlsbmiguel\SicopataPedidos\NotasWorkshop.API\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\miguel.santos\Source\Repos\Dlsbmiguel\SicopataPedidos\NotasWorkshop.API\bin\Debug\net6.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\miguel.santos\Source\Repos\Dlsbmiguel\SicopataPedidos\NotasWorkshop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll

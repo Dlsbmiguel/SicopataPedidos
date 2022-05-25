@@ -1,0 +1,347 @@
+﻿++Solution 'SicopataPedidos' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:SicopataPedidos.sln
+++SicopataPedidos.API
+i:{00000000-0000-0000-0000-000000000000}:SicopataPedidos.API
+++Connected Services 
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:>1155
+++Dependencies
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:>1154
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:>964
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:>965
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:>966
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:>963
+++Properties
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\properties\
+++Controllers
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\controllers\
+++BaseController.cs
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\controllers\basecontroller.cs
+++CategoriesController.cs
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\controllers\categoriescontroller.cs
+++IBaseController.cs
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\controllers\ibasecontroller.cs
+++LogInController.cs
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\controllers\logincontroller.cs
+++OrdersController.cs
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\controllers\orderscontroller.cs
+++ProductsController.cs
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\controllers\productscontroller.cs
+++ShoppingListController.cs
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\controllers\shoppinglistcontroller.cs
+++UserController.cs
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\controllers\usercontroller.cs
+++IoC
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\ioc\
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\ioc\
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\ioc\
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\ioc\
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\ioc\
+++appsettings.json
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\appsettings.json
+++Program.cs
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\program.cs
+++No service dependencies discovered
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:>1156
+++Analyzers
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:analyzers
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:analyzers
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:analyzers
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:analyzers
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:analyzers
+++Frameworks
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:frameworks
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:frameworks
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:frameworks
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:frameworks
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:frameworks
+++Packages
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:packages
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:packages
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:packages
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:packages
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:packages
+++Projects
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:projects
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:projects
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:projects
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:projects
+++launchSettings.json
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\properties\launchsettings.json
+++ApiRegistry.cs
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\ioc\apiregistry.cs
+++appsettings.Development.json
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.api\microsoft.netcore.app
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\microsoft.netcore.app
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\microsoft.netcore.app
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\microsoft.netcore.app
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\microsoft.netcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.5)
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:>1170
+++Microsoft.EntityFrameworkCore.Tools (6.0.5)
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:>1171
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:>1186
+++Microsoft.Identity.Web (1.24.1)
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:>1169
+++NSwag.AspNetCore (13.16.0)
+++Swashbuckle.AspNetCore (6.3.1)
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:>1167
+++Swashbuckle.AspNetCore.Filters (7.0.2)
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:>1168
+++SicopataPedidos.Services
+i:{fc54e14b-ecaf-4c95-b875-766b808add6a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\sicopatapedidos.services.csproj
+i:{00000000-0000-0000-0000-000000000000}:SicopataPedidos.Services
+++SicopataPedidos.Core
+i:{00000000-0000-0000-0000-000000000000}:SicopataPedidos.Core
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\bin\debug\net6.0\sicopatapedidos.core.dll
+++Base
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\base\
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\base\base\
+++Constants
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\constants\
+++Enums
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\enums\
+++Extensions
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\extensions\
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\extensions\
+++Settings
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\settings\
+++BaseDto
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\base\basedto\
+++BaseEntity
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\base\baseentity\
+++BaseEntityDto
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\base\baseentitydto\
+++Endpoint.cs
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\constants\endpoint.cs
+++CoreRegistry.cs
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\ioc\coreregistry.cs
+++AppSettings.cs
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\settings\appsettings.cs
+++ConnectionStrings.cs
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\settings\connectionstrings.cs
+++Microsoft.Extensions.DependencyInjection (6.0.0)
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:>1196
+++Base.cs
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\base\base\base.cs
+++IBase.cs
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\base\base\ibase.cs
+++BaseDto.cs
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\base\basedto\basedto.cs
+++IBaseDto.cs
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\base\basedto\ibasedto.cs
+++BaseEntity.cs
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\base\baseentity\baseentity.cs
+++IBaseEntity.cs
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\base\baseentity\ibaseentity.cs
+++BaseEntityDto.cs
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\base\baseentitydto\baseentitydto.cs
+++IBaseEntityDto.cs
+i:{d17ddc6c-b883-45f0-a3ca-42b695970b1a}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.core\base\baseentitydto\ibaseentitydto.cs
+++SicopataPedidos.Model
+i:{00000000-0000-0000-0000-000000000000}:SicopataPedidos.Model
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\bin\debug\net6.0\sicopatapedidos.model.dll
+++Contexts
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\contexts\
+++Entities
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\entities\
+++Migrations
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\migrations\
+++Repositories
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\repositories\
+++UnitOfWorks
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\unitofworks\
+++EFFilterExtensions.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\effilterextensions.cs
+++SicopataPedidos
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\contexts\sicopatapedidos\
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\unitofworks\sicopatapedidos\
+++BaseDbContext.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\contexts\basedbcontext.cs
+++Categories.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\entities\categories.cs
+++Orders.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\entities\orders.cs
+++Products.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\entities\products.cs
+++ShoppingList.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\entities\shoppinglist.cs
+++User.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\entities\user.cs
+++ModelRegistry.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\ioc\modelregistry.cs
+++20220515025519_Initial.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\migrations\20220515025519_initial.cs
+++20220515174109_initial2.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\migrations\20220515174109_initial2.cs
+++SicopataPedidosDbContextModelSnapshot.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\migrations\sicopatapedidosdbcontextmodelsnapshot.cs
+++BaseRepository.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\repositories\baserepository.cs
+++IRepository.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\repositories\irepository.cs
+++IUnitOfWork.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\unitofworks\iunitofwork.cs
+++Microsoft.EntityFrameworkCore (6.0.5)
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:>1183
+++Microsoft.EntityFrameworkCore.Design (6.0.5)
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:>1185
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.5)
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:>1184
+++ISicopataPedidosDbContext.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\contexts\sicopatapedidos\isicopatapedidosdbcontext.cs
+++SicopataPedidosDbContext.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\contexts\sicopatapedidos\sicopatapedidosdbcontext.cs
+++20220515025519_Initial.Designer.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\migrations\20220515025519_initial.designer.cs
+++20220515174109_initial2.Designer.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\migrations\20220515174109_initial2.designer.cs
+++SicopataPedidosUnitOfWork.cs
+i:{a8da4eca-c2a7-40a3-9cf5-a9f0286f1d1b}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.model\unitofworks\sicopatapedidos\sicopatapedidosunitofwork.cs
+++Generic
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\generic\
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\validators\generic\
+++EntityCRUDService.cs
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\generic\entitycrudservice.cs
+++IEntityCRUDService.cs
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\generic\ientitycrudservice.cs
+++Services
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\services\
+++ServiceRegistry.cs
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\ioc\serviceregistry.cs
+++CategoriesProductService.cs
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\services\categoriesproductservice.cs
+++CategoriesService.cs
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\services\categoriesservice.cs
+++EmailService.cs
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\services\emailservice.cs
+++GetLoggedInUserService.cs
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\services\getloggedinuserservice.cs
+++LogInService.cs
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\services\loginservice.cs
+++OrdersService.cs
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\services\ordersservice.cs
+++ProductsService.cs
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\services\productsservice.cs
+++ShoppingListService.cs
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\services\shoppinglistservice.cs
+++TokenCreationService.cs
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\services\tokencreationservice.cs
+++UserService.cs
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.services\services\userservice.cs
+++MailKit (3.2.0)
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:>1225
+++MimeKit (3.2.0)
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:>1224
+++SicopataPedidos.Bl
+i:{54a2d6f4-b083-4ab3-9045-eab517ecbd1e}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\bin\debug\net6.0\sicopatapedidos.bl.dll
+i:{00000000-0000-0000-0000-000000000000}:SicopataPedidos.Bl
+++Dtos
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\dtos\
+++Mappings
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\mappings\
+++Validators
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\validators\
+++CategoriesDto.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\dtos\categoriesdto.cs
+++CategoriesProductsDto.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\dtos\categoriesproductsdto.cs
+++LogInDto.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\dtos\logindto.cs
+++OrdersDto.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\dtos\ordersdto.cs
+++ProductsDto.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\dtos\productsdto.cs
+++ShoppingListDto.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\dtos\shoppinglistdto.cs
+++UserDto.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\dtos\userdto.cs
+++AutoMapperExtensions.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\extensions\automapperextensions.cs
+++FluentExtensions.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\extensions\fluentextensions.cs
+++MapperExtensions.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\extensions\mapperextensions.cs
+++StringExtensions.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\extensions\stringextensions.cs
+++BlRegistry.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\ioc\blregistry.cs
+++CategoriesProfile.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\mappings\categoriesprofile.cs
+++LogInProfile.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\mappings\loginprofile.cs
+++OrdersProfile.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\mappings\ordersprofile.cs
+++ProductsProfile.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\mappings\productsprofile.cs
+++ShoppingListProfile.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\mappings\shoppinglistprofile.cs
+++UserProfile.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\mappings\userprofile.cs
+++CategoriesValidator.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\validators\categoriesvalidator.cs
+++LogInValidator.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\validators\loginvalidator.cs
+++ProductsValidator.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\validators\productsvalidator.cs
+++UserValidator.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\validators\uservalidator.cs
+++AutoMapper (11.0.1)
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:>1210
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:>1208
+++FluentValidation.AspNetCore (11.0.1)
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:>1209
+++BaseValidator.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\validators\generic\basevalidator.cs
+++IBaseValidator.cs
+i:{afd51da6-1f0a-4833-9fc3-9dd1ca7e2341}:c:\users\miguel.santos\source\repos\dlsbmiguel\sicopatapedidos\notasworkshop.bl\validators\generic\ibasevalidator.cs
