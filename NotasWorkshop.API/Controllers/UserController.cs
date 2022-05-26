@@ -5,6 +5,7 @@ using SicopataPedidos.Api.Controllers;
 using SicopataPedidos.Bl.Dtos;
 using SicopataPedidos.Model.Entities;
 using SicopataPedidos.Services.Services;
+using System.Threading.Tasks;
 
 namespace SicopataPedidos.API.Controllers
 {
@@ -14,10 +15,26 @@ namespace SicopataPedidos.API.Controllers
     public class UserController : BaseController<User, UserDto>
     {
         private readonly IUserService _userService;
-        public UserController(IUserService userService, IMapper mapper) : base(userService, mapper)
+        private readonly IHttpContextAccessor _contextAccessor;
+        public UserController(IUserService userService, IMapper mapper, IHttpContextAccessor contextAccessor) : base(userService, mapper)
         {
             _userService = userService;
+            _contextAccessor = contextAccessor;
         }
+
+        //public async Task<IActionResult> GetCurrentUser()
+        //{
+        //    var dto = await GetAndCreateCurrentUserIfNoExist();
+        //    return Ok(dto);
+
+        //}
+
+
+        //private Task GetAndCreateCurrentUserIfNoExist()
+        //{
+        //    var currentAdUser = GetCurrentADUser();
+        //    var userCreated = 
+        //}
 
         [HttpPost, AllowAnonymous]
         public override Task<IActionResult> Post([FromBody] UserDto entityDto)

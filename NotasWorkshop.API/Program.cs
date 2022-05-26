@@ -82,7 +82,7 @@ builder.Services.AddSwaggerGen(c =>
                 TokenUrl = new Uri(builder.Configuration["AzureAdB2C:TokenUrl"]),
                 Scopes = new Dictionary<string, string>
                 {
-                    { $"api://{builder.Configuration["AzureAdB2C:ClientId"]}1x/user_impersonation", "Access Application" },
+                    {builder.Configuration["AzureAdB2C:ApiScope"], "read the api" }
                 }
             }
         }
@@ -99,17 +99,19 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-builder.Services.AddAuthentication(options =>
-{
-    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-}).AddMicrosoftIdentityWebApi(options =>
-{
-    builder.Configuration.Bind("AzureAdB2C", options);
+//builder.Services.AddAuthentication(options =>
+//{
+//    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+//    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+//}).AddMicrosoftIdentityWebApi(options =>
+//{
+//    builder.Configuration.Bind("AzureAdB2C", options);
 
-    options.TokenValidationParameters.NameClaimType = "name";
-},
-    options => { builder.Configuration.Bind("AzureAdB2C", options); });
+//    options.TokenValidationParameters.NameClaimType = "name";
+//},
+//    options => { builder.Configuration.Bind("AzureAdB2C", options); });
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddMicrosoftIdentityWebApi(builder.Configuration, "AzureAdB2C");
+
 //.AddJwtBearer(options =>
 
 //{
